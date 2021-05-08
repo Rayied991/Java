@@ -23,7 +23,7 @@ public class Datatypes {
         double d=2.9999;
         System.out.println(d);
 
-        //Non-Primitive Datatype
+       
 
     }
 }
