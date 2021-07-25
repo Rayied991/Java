@@ -1,7 +1,7 @@
 Java Programming Language<br>
 <b><u>Why Java is called Object Oriented Programming Language:</b></u><br>
 Because of having some properties such as class,objects,abstraction,inheritance,Polymorphism,Encapsulation ,that’s why it is called Object Oriented Programming Language.<br>
-<b>History of Java</b><br>
+<b>History of Java:</b><br>
 ```
 •	Java Originally Designed for Digital Device. Java team member known as green team developed a language for digital device which is used in small system such as TV, set top box etc.
 •	Firstly, it was called “Green talk”.
