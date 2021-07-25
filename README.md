@@ -7,8 +7,9 @@ Because of having some properties such as class,objects,abstraction,inheritance,
 •	Firstly, it was called “Green talk”.
 •	After its name changed to “Oak”.
 ```
+
+<b>Why “Oak”?<b><br>
 ```
-Why “Oak”?
 ->Oak is a symbol of strength and chosen as a tree of many countries like U.S.A, France, Germany, Romania etc.
 •	But there is another corporation same name as “Oak”. For that reason, 
 In 1995 it was renamed to “Java” as per team members preference and also there was already trademark by Oak technology.
