@@ -1,4 +1,4 @@
-package CodeWithHarry.Loops;
+
 
 import java.util.Scanner;
 
