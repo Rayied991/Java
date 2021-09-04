@@ -1,4 +1,3 @@
-package CodeWithHarry.Loops;
 import  java.util.Scanner;
 public class While_Loop {
     public static void main(String[] args) {
