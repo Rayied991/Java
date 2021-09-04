@@ -1,4 +1,3 @@
-package CodeWithHarry.Loops;
 
 public class Do_While_Loop {
     public static void main(String[] args) {
